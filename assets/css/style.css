@@ -140,7 +140,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: rgb(124, 124, 128);
 }
 
 /* main blockqoute */
@@ -560,6 +560,10 @@ small {
 
 .black {
   background-color: rgb(28, 28, 30) !important;
+}
+
+.dark-grey{
+  background-color: rgb(68, 68, 70) !important;
 }
 
 /* .teal {
