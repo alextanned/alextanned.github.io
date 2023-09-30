@@ -320,7 +320,7 @@ h3 {
 } */
 
 #intro.section {
-  background: rgb(108, 108, 112) repeat;
+  background: #6c6c70 repeat;
   position: relative;
 }
 
@@ -563,7 +563,7 @@ small {
 }
 
 .dark-grey{
-  background-color: rgb(68, 68, 70) !important;
+  background-color: rgb(44, 44, 46) !important;
 }
 
 /* .teal {
