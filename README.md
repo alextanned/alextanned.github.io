@@ -12,3 +12,7 @@
 ## Activity 3
 ![image](https://github.com/alextanned/alextanned.github.io/assets/74106760/19707689-9d2c-49f3-8285-be249de837d9)
 ![image](https://github.com/alextanned/alextanned.github.io/assets/74106760/58688987-a75e-4aa9-b393-99a14dbbc85e)
+
+## Activity 4
+![image](https://github.com/alextanned/alextanned.github.io/assets/74106760/9e2fb1f5-eaff-4b12-9974-44ab7a05580a)
+![image](https://github.com/alextanned/alextanned.github.io/assets/74106760/61efc9a2-d751-43f3-88c5-c3d426000a80)
